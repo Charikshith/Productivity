@@ -17,3 +17,10 @@
 12. ottogrid.ai
 13. alphaai
 14. 
+
+# VOICE
+
+1. ElevenLabs
+2. NaturalReader
+3. Lovevoiceai
+4. speechma
